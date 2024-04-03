@@ -1,1 +1,1 @@
-echo "已更新"
+echo "更新 abababadbab"
